@@ -1,0 +1,24 @@
+{
+  "name": "koa2-demo2",
+  "version": "0.0.1",
+  "description": "koa2Demo，使用async/await代替generator，让代码看起来非常简洁，并且为路由加入权限判断。",
+  "main": "app.js",
+  "scripts": {
+    "test": "node --harmony app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZefanQiu/koa2-demo2.git"
+  },
+  "keywords": [
+    "koa2",
+    "es7",
+    "async/await"
+  ],
+  "author": "zefanqiu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZefanQiu/koa2-demo2/issues"
+  },
+  "homepage": "https://github.com/ZefanQiu/koa2-demo2#readme"
+}
