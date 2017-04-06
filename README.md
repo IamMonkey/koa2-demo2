@@ -6,7 +6,7 @@ koa2Demo2，使用async/await代替generator，让代码看起来非常简洁，
 
 * co
 * koa-better-router
-* koa-bodyparser
+* koa-body
 * koa-ejs
 * koa-redis
 * koa-session-minimal
