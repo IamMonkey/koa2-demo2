@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZefanQiu/koa2-demo2.git"
+    "url": "git+https://github.com/IamMonkey/koa2-demo2.git"
   },
   "keywords": [
     "koa2",
     "es7",
     "async/await"
   ],
-  "author": "zefanqiu",
+  "author": "IamMonkey",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ZefanQiu/koa2-demo2/issues"
+    "url": "https://github.com/IamMonkey/koa2-demo2/issues"
   },
-  "homepage": "https://github.com/ZefanQiu/koa2-demo2#readme"
+  "homepage": "https://github.com/IamMonkey/koa2-demo2#readme"
 }
