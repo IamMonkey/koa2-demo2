@@ -12,3 +12,8 @@ koa2Demo，使用async/await代替generator，让代码看起来非常简洁，�
 * koa-session-minimal
 * koa-static2
 * koa-yenoro
+
+## 使用教程
+
+1. 下载
+2. 运行
