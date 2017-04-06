@@ -1,6 +1,6 @@
 {
   "name": "koa2-demo2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "koa2Demo，使用async/await代替generator，让代码看起来非常简洁，并且为路由加入权限判断。",
   "main": "app.js",
   "scripts": {
